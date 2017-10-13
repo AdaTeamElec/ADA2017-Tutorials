@@ -112,6 +112,3 @@ venv.bak/
 
 # End of https://www.gitignore.io/api/python,jupyternotebook
 
-.ipynb_checkpoints
-.DS_Store
-
